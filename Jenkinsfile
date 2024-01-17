@@ -1,12 +1,12 @@
 pipeline {
  agent any
  stages {
-   stage(‘Build’) {
+   stage('Build') {
      steps {
        sh "/opt/apache-maven/bin/mvn clean package"
      }
    }
-   stage(‘Test’) {
+   stage('Test') {
      steps {
        sh "/opt/apache-maven/bin/mvn test"
      }

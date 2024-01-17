@@ -3,12 +3,12 @@ pipeline {
  stages {
    stage('Build') {
      steps {
-       sh "/opt/apache-maven/bin/mvn clean package"
+       sh "mvn clean package"
      }
    }
    stage('Test') {
      steps {
-       sh "/opt/apache-maven/bin/mvn test"
+       sh "mvn test"
      }
    }
  }

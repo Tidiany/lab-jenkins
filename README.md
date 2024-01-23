@@ -6,6 +6,7 @@
 # Documentation
 
 Ce projet est un lab pour mettre en place une chaine d'intégration avec jenkins et docker.
+En effet ceci est un projet pour mettre en place un pipeline CI/CD avec jenkins...
 
 ## Instalation de Jenkins en local
 

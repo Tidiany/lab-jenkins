@@ -1,7 +1,7 @@
-![work status](https://img.shields.io/badge/work-on%20progress-red.svg)
-![Tidiany](https://img.shields.io/badge/Tidiany%20Toure-Java-green)
-![Java](https://img.shields.io/badge/Tidiany%20Toure-Docker-red)
-![Java](https://img.shields.io/badge/Tidiany%20Toure-Jenkins-green.svg)
+![Tidiany](https://img.shields.io/badge/work-on%20progress-red.svg)
+![Java](https://img.shields.io/badge/Tidiany%20Toure-Java-green)
+![Docker](https://img.shields.io/badge/Tidiany%20Toure-Docker-blue)
+![Jenkins](https://img.shields.io/badge/Tidiany%20Toure-Jenkins-yellow.svg)
 
 # Documentation
 

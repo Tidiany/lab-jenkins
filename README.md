@@ -10,5 +10,5 @@ En effet ceci est un projet pour mettre en place un pipeline CI/CD avec jenkins.
 
 ## Instalation de Jenkins en local
 
-![Capture d’écran (102).png](src%2Fmain%2Fresources%2Fstatic%2Fimages%2FCapture%20d%92%E9cran%20%28102%29.png)
+![Instalation de Jenkins](https://github.com/Tidiany/lab-jenkins/blob/main/src/main/resources/static/images/Capture%20d%E2%80%99%C3%A9cran%20(102).png)
 
